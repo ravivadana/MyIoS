@@ -1,0 +1,54 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+
+"AppTitle" = "Doc Hafen";
+"Education" = "Bildung";
+"Profession" = "Berufs";
+"Property" = "Eigentum";
+"Identity Cards" = "Personalausweise";
+
+"S.S.C"="Schule";
+"Intermediet"="Jr. College-";
+"Graduation"="Graduation";
+"Post Graduation"="Post Graduation";
+
+
+"Rename"="Benennen";
+"Move"="Bewegen sich";
+"Delete"="löschen";
+"Cancel"="Absagen";
+"Export"="Export";
+"Add Folder"="Ordner hinzufügen";
+"Add File"="hinzufügen von Dokumenten";
+"Add Text File"="Fügen Sie Text-Datei";
+"Choose Option"="wählen Sie eine Option";
+
+"Settings"="Einstellungen";
+"Categories"="Kategorien";
+"Themes"="Themes";
+"Languages"="Sprachen";
+"Profile"="Profil";
+"Import Options"="Importoptionen";
+"Export Options"="Exportoptionen";
+"Zip/UnZip"="Zip / unzip";
+"Allowed Document Types"="Allowed Document Types";
+"German-de"="allemand";
+
+"Enter Category Name"="Geben Kategorie Name";
+"Done"="Fertig";
+"Are You Sure To Delete"="Sind Sie sicher zu löschen";
+"Ok"="'Ok";
+"And"="Und";
+"Folders"="Folders";
+"Files"="Unterlagen";
+"Folder"="Mappe";
+"Search"="Suche";
+
+
+
+

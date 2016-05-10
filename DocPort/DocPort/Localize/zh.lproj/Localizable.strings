@@ -1,0 +1,52 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+
+"AppTitle" = "文档港";
+"Education" = "教育";
+"Profession" = "专业";
+"Property" = "物业";
+"Identity Cards" = "身份证";
+
+"S.S.C"="学派";
+"Intermediet"="小学院";
+"Graduation"="刻度";
+"Post Graduation"="毕业以后";
+
+"Rename"="重命名";
+"Move"="搬家";
+"Delete"="删";
+"Cancel"="撤消";
+"Export"="出口";
+"Add Folder"="新增文件夹";
+"Add File"="加文件";
+"Add Text File"="添加文本文件";
+"Choose Option"="选择选项";
+
+"Settings"="设置";
+"Categories"="分类";
+"Themes"="主题";
+"Languages"="语言";
+"Profile"="简介";
+"Import Options"="导入选项";
+"Export Options"="导出选项";
+"Zip/UnZip"="压缩/解压缩";
+"Allowed Document Types"="允许的文档类型";
+"Chinese-zh"="中国";
+
+"Enter Category Name"="श्输入类别名称";
+"Done"="做完";
+"Are You Sure To Delete"="您确定要删除";
+"Ok"="行";
+"And"="和";
+"Folders"="文件夹";
+"Files"="文件";
+"Folder"="文件夹";
+"Search"="搜";
+
+
+

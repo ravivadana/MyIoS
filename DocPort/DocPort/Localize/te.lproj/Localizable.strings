@@ -1,0 +1,67 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+
+"AppTitle" = "డాక్ పోర్ట్";
+"Education" = "విద్య";
+"Profession" = "వృత్తి";
+"Property" = "ఆస్తి";
+"Identity Cards" = "గుర్తింపు కార్డులు";
+"Lenora College Of Engineering"="లేనోర కాలేజీ అఫ్ ఇంజనీరింగ్";
+"Gurunanak College Of Engineering"="గురునానక్ కాలేజీ అఫ్ ఇంజనీరింగ్";
+"Nisitha College Of Engineering"="నిశిత కాలేజీ అఫ్ ఇంజనీరింగ్";
+"AppLabs"="ఆప్లబ్స్ టెక్నాలజీస్";
+"Satyam Computers Services Pvt. Ltd."="సత్యం కంప్యూటర్ సర్వీసెస్ ప్రైవేటు లిమిటెడ్";
+"Mahindra Satyam"="మహీంద్రా సత్యం";
+"Tech Mahindra"="టెక్ మహీంద్రా";
+"UST Global Services Pvt. Ltd."="యు.ఎస్.టి గ్లోబల్ సర్వీసెస్ ప్రైవేటు లిమిటెడ్";
+"Harsco"="హరస్కో";
+"S.S.C"="ఎస్. ఎస్. సి";
+"Intermediet"="ఇంటర్";
+"Graduation"="గ్రాడ్యుయేషన్";
+"Post Graduation"="పోస్ట్ గ్రాడ్యుయేషన్";
+"Rename"="పేరుమార్చు";
+"Move"="తరలించు";
+"Delete"="తొలగించు";
+"Cancel"="రదుచేయ్యు";
+"Export"="ఎగుమతి చెయ్";
+"Add Folder"="పుస్తకము జోడించు";
+"Add File"="టెక్సటు పత్రం జోడించు";
+"Add Text File"="పత్రం జోడించు";
+"Choose Option"="ఎంపికను ఎంచుకోండి";
+
+"Settings"="సెట్టింగులు";
+"Categories"="వర్గాలు";
+"Themes"="నేపథ్య రంగు";
+"Languages"="భాషలు";
+"Profile"="ప్రక్క దృశ్యము";
+"Import Options"="దిగుమతి ఎంపికలు";
+"Export Options"="ఎగుమతి ఎంపికలు";
+"Zip/UnZip"="ఆర్కైవ్/అన్ ఆర్కైవ్";
+"Allowed Document Types"="డాకుమెంట్స్ రకాలు";
+"Telugu-te"="తెలుగు";
+"Enter Category Name"="వర్గం పేరు ఇవ్వండి";
+"Done"="అంగీకరించు";
+"Are You Sure To Delete"="తొలగించడానికి నిర్ధారించండి";
+"Ok"="అవును";
+"And"="And";
+"Folders"="పుస్తకములు";
+"Files"="పత్రంలు";
+"Folder"="పుస్తకము";
+"Search"="శోధన";
+
+
+
+
+
+
+
+
+
+
+
+

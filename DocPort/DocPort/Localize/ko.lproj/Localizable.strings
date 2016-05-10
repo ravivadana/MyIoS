@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+
+"AppTitle" = "닥 포트";
+"Education" = "교육";
+"Profession" = "직업적인";
+"Property" = "재산";
+"Identity Cards" = "아이덴티티 카드";
+
+"S.S.C"="학교";
+"Intermediet"="주니어 대학";
+"Graduation"="눈금";
+"Post Graduation"="포스트 졸업";
+
+"Rename"="이름 바꾸기";
+"Move"="움직임";
+"Delete"="삭제";
+"Cancel"="취소";
+"Export"="수출";
+"Add Folder"="폴더 추가";
+"Add File"="파일 추가";
+"Add Text File"="텍스트 파일 추가";
+"Choose Option"="옵션을 선택하세요";
+
+"Settings"="설정";
+"Categories"="카테고리";
+"Themes"="테마";
+"Languages"="언어";
+"Profile"="윤곽";
+"Import Options"="가져 오기 옵션";
+"Export Options"="내보내기 옵션";
+"Zip/UnZip"="우편 번호 / 압축을 풉니 다";
+"Allowed Document Types"="허용 된 문서 유형";
+"Korean-ko"="한국어";
+
+"Enter Category Name"="카테고리 이름 을 입력합니다";
+"Done"="완료";
+"Are You Sure To Delete"="당신은 삭제 하시겠습니까";
+"Ok"="그래";
+"And"="과";
+"Folders"="폴더";
+"Files"="서류";
+"Folder"="폴더";
+"Search"="수색";

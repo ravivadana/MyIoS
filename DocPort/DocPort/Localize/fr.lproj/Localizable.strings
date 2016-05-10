@@ -1,0 +1,49 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+"AppTitle" = "Port Doc";
+"Education" = "éducation";
+"Profession" = "professionnel";
+"Property" = "propriété";
+"Identity Cards" = "Cartes d'identité";
+
+"S.S.C"="L'école";
+"Intermediet"="小Collège Jr.";
+"Graduation"="graduation";
+"Post Graduation"="Après être diplômé";
+
+
+"Rename"="renommer";
+"Move"="déménagement";
+"Delete"="Effacer";
+"Cancel"="annuler";
+"Export"="Export";
+"Add Folder"="Ajouter le dossier";
+"Add File"="Ajouter le fichier";
+"Add Text File"="Ajouter un fichier texte";
+"Choose Option"="Choisissez Option";
+
+"Settings"="Paramètres";
+"Categories"="Catégories";
+"Themes"="thèmes";
+"Languages"="langues";
+"Profile"="Profil";
+"Import Options"="Options d'importation";
+"Export Options"="Options d'export";
+"Zip/UnZip"="Zip / UnZip";
+"Allowed Document Types"="Types de documents";
+"French-fr"="français";
+
+"Enter Category Name"="Entrez Nom de la catégorie";
+"Done"="Terminé";
+"Are You Sure To Delete"="Êtes-vous sûr de vouloir supprimer";
+"Ok"="'accord";
+"And"="et";
+"Folders"="dossiers";
+"Files"="Docuements";
+"Folder"="dossier";
+"Search"="Recherche";

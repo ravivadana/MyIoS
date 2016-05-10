@@ -1,0 +1,53 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+
+"AppTitle" = "डॉक्टर बंदरगाह";
+"Education" = "शिक्षा";
+"Profession" = "पेशेवर";
+"Property" = "संपत्ति";
+"Identity Cards" = "पहचान पत्र";
+
+"S.S.C"="स्कूल";
+"Intermediet"="जूनियर कॉलेज";
+"Graduation"="स्नातक स्तर की पढ़ाई";
+"Post Graduation"="पोस्ट ग्रेजुएशन";
+
+"Rename"="नाम बदलें";
+"Move"="चाल";
+"Delete"="हटाना";
+"Cancel"="रद्द करना";
+"Export"="निर्यात";
+"Add Folder"="फ़ोल्डर जोड़ें";
+"Add File"="दस्तावेज़ जोड़ें";
+"Add Text File"="पाठ फ़ाइल जोड़ें";
+"Choose Option"="ऑप्शन चुनें";
+
+"Settings"="सेटिंग्स";
+"Categories"="श्रेणियाँ";
+"Themes"="विषय";
+"Languages"="बोली";
+"Profile"="प्रोफाइल";
+"Import Options"="आयात के विकल्प";
+"Export Options"="निर्यात विकल्प";
+"Zip/UnZip"="ज़िप/खोलना";
+"Allowed Document Types"="अनुमति दी दस्तावेज़ प्रकार";
+"Hindi-hi"="हिंदी";
+
+"Enter Category Name"="श्रेणी का नाम दर्ज";
+"Done"="डन";
+"Are You Sure To Delete"="क्या वाकई हटाना है";
+"Ok"="ठीक";
+"And"="और";
+"Folders"="फ़ोल्डर";
+"Files"="दस्तावेज़";
+"Folder"="फ़ोल्डर";
+"Search"="खोज";
+
+
+
+

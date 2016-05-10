@@ -1,0 +1,62 @@
+/*
+ Localizable.strings
+ DocPort
+ 
+ Created by RAVIKUMAR on 09/10/15.
+ Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+ */
+
+"AppTitle" = "Doc Puerto";
+"Education" = "Educación";
+"Profession" = "Professional";
+"Property" = "propiedad";
+"Identity Cards" = "Tarjetas de identidad";
+
+"Lenora College Of Engineering"="Lenora College Of Engineering";
+"Gurunanak College Of Engineering"="Gurunanak College Of Engineering";
+"Nisitha College Of Engineering"="Nisitha College Of Engineering";
+"AppLabs"="AppLabs";
+"Satyam Computer Services Pvt. Ltd."="Satyam Computer Services Pvt. Ltd.";
+"Mahindra Satyam"="Mahindra Satyam";
+"Tech Mahindra"="Tech Mahindra";
+"UST Global Services Pvt. Ltd."="UST Global Services Pvt. Ltd.";
+
+"S.S.C"="Colegio";
+"Intermediet"="Jr. Colegio";
+"Graduation"="graduación";
+"Post Graduation"="posgraduación";
+
+"Rename"="Renombrar";
+"Move"="movida";
+"Delete"="borrar";
+"Cancel"="cancelar";
+"Export"="exportación";
+"Add Folder"="Añadir carpeta";
+"Add File"="Añadir documento";
+"Add Text File"="Agregar archivo de texto";
+"Choose Option"="Elige opción";
+
+"Settings"="Ajustes";
+"Categories"="Categorías";
+"Themes"="temas";
+"Languages"="idiomas";
+"Profile"="perfilar";
+"Import Options"="Opciones de importación";
+"Export Options"="Opciones de exportación";
+"Zip/UnZip"="Zip / UnZip";
+"Allowed Document Types"="Animales Tipos de documentos";
+"Spanish-es"="Español";
+
+"Enter Category Name"="Introduzca Categoría Nombre";
+"Done"="Hecho";
+"Are You Sure To Delete"="¿Está seguro de borrar";
+"Ok"="OK";
+"And"="y";
+"Folders"="Carpetas";
+"Files"="Documentos";
+"Folder"="carpeta";
+"Search"="Buscar";
+
+
+
+

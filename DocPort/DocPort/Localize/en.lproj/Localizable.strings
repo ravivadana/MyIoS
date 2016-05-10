@@ -1,0 +1,20 @@
+/* 
+  Localizable.Strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+"AppTitle" = "DocPort";
+"Education" = "Education";
+"Profession" = "Professional";
+"Property" = "Property";
+"Identity Cards" = "Identity Cards";
+"Lenora College Of Engineering"="Lenora College Of Engineering";
+"Gurunanak College Of Engineering"="Gurunanak College Of Engineering";
+"Nisitha College Of Engineering"="Nisitha College Of Engineering";
+"AppLabs"="AppLabs";
+"Satyam Computer Services Pvt. Ltd."="Satyam Computer Services Pvt. Ltd.";
+"Mahindra Satyam"="Mahindra Satyam";
+"Tech Mahindra"="Tech Mahindra";
+"UST Global Services Pvt. Ltd."="UST Global Services Pvt. Ltd.";

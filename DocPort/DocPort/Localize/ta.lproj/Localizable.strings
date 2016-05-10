@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  DocPort
+
+  Created by RAVIKUMAR on 09/10/15.
+  Copyright (c) 2015 RAVIKUMAR. All rights reserved.
+*/
+"AppTitle" = "டாக் துறைமுக";
+"Education" = "கல்வி";
+"Profession" = "வல்லுநர்";
+"Property" = "சொத்து";
+"Identity Cards" = "அடையாள அட்டை";
+
+"S.S.C"="பள்ளி";
+"Intermediet"="ஜூனியர் கல்லூரி";
+"Graduation"="பட்டம்";
+"Post Graduation"="முதுநிலையில்";
+
+"Rename"="மறுபெயரிடு";
+"Move"="நகர்த்து";
+"Delete"="நீக்கு";
+"Cancel"="ரத்து";
+"Export"="ஏற்றுமதி";
+"Add Folder"="அடைவு சேர்க்கவும்";
+"Add File"="கோப்பு சேர்க்க";
+"Add Text File"="உரை கோப்பு சேர்க்கவும்";
+"Choose Option"="விருப்ப தேர்வு";
+
+"Settings"="அமைப்புகள்";
+"Categories"="வகைகள்";
+"Themes"="தீம்கள்";
+"Languages"="மொழிகள்";
+"Profile"="பதிவு செய்தது";
+"Import Options"="இறக்குமதி விருப்பங்கள்";
+"Export Options"="ஏற்றுமதி விருப்பங்கள்";
+"Zip/UnZip"="ஜிப் / விரிவாக்கு";
+"Allowed Document Types"="அனுமதிக்கப்பட்ட ஆவண வகைகள்";
+"Tamil-ta"="தமிழ்";
+
+"Enter Category Name"="வகை பெயர் சேர்க்கவும்";
+"Done"="முடிந்தது";
+"Are You Sure To Delete"="நீங்கள் நீக்குவதில் உறுதியாக இருக்கிறீர்களா";
+"Ok"="சரி";
+"And"="மேலும்";
+"Folders"="அடைவுகள்";
+"Files"="ஆவணங்கள்";
+"Folder"="அடைவு";
+"Search"="தேடல்";
